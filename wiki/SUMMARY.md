@@ -10,6 +10,6 @@
 
 ## Padrões de UI
 
-* [Modelo de Pesquisa](padroes-de-ui/modelo-de-pesquisa.md)
+* [Modelo de Pesquisa](padroes-de-ui/page-1.md)
 * [Modelo de cadastro](padroes-de-ui/modelo-de-cadastro.md)
 * [Modelo de Historico](padroes-de-ui/modelo-de-historico.md)
